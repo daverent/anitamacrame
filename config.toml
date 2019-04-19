@@ -1,0 +1,85 @@
+baseURL                   = ""
+builddrafts                = false
+DefaultContentLanguage     = "it"
+languageCode               = "it-it"
+canonifyurls               = true
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "public"
+enableEmoji                = true
+hasCJKLanguage             = false
+summaryLength              = 200
+Paginate                   = 3
+
+theme                      = "AllinOne"
+title                      = "AnitaMacrame"
+
+pygmentsuseclasses         = true
+
+
+[permalinks]
+  blog                     = "blog/:year-:month/:slug/"
+
+
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
+
+
+[menu]
+
+  [[menu.main]]
+    name                   = "Contatti"
+    weight                 = -110
+    identifier             = "contatti"
+    url                    = "contatti/" 
+
+  [[menu.main]]
+    name                   = "About"
+    weight                 = -100
+    identifier             = "about"
+    url                    = "about/"  
+
+ 
+
+[params]
+  faviconfile              = "img/logo.png"               # from static/
+  avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
+  author                   = "AnitaMacrame"
+  description              = ["•Handmade macrame and crochet", "•Love a lot of iuta.", "•Nel mondo c'è un sacco di spago"]           # appears in the site header when set to a non-empty string
+  welcome_head             = "Anita"
+  welcome_word             = "Un sacco enorme di fili di iuta"
+
+  latestpostscount         = 8                             # how many posts to display on the home page
+  bloggroupby              = 'month'
+  dateform                 = "2 Jan, 2006"
+  dateformfull             = "01-02-2006  Monday  15:04:05"
+  noshowreadtime           = true                         # if true, don't show "<x> minutes read" in posts
+
+  # slides
+  slidesDirPath            = "static/img/header"    # path to image in local dir (path for hugo)
+  slidesDirPathURL         = "img/header"    # path to image in static dir (for static pages)
+
+  # highlighting 
+  highlightjs              = true
+
+  # latex
+  katex                    = true
+
+  # links
+  email                    = "anitamacrame@gmail.com"
+  github                   = ""
+  linkedin                 = ""
+  facebook                 = "//facebook.com/pg/AnitaMacrame-1790556211247546"
+  googleplus               = ""
+  twitter                  = "" 
+  px500                    = ""
+  etsy                     = "//etsy.com/it/shop/AnitaMacrame?ref=search_shop_redirect"
+  instagram                = "//instagram.com/anitamacrame"
+  include_rss              = false                          # include RSS <link> tag in <head> and show RSS icon
+  
+  # analytics
+  googleAnalytics          = ""
+    
+    

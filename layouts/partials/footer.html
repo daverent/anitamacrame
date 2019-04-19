@@ -1,0 +1,40 @@
+
+<!--Footer-->
+<footer class="page-footer text-center font-small mt-4 wow fadeIn">
+
+
+  <!-- Social icons -->
+  <div class="pb-2 mt-5 pt-5">
+
+    {{ if $.Site.Params.facebook }}
+      <a href="{{ $.Site.Params.facebook }}" target="_blank" rel="noopener"><i class="fab fa-facebook-f mr-3" aria-hidden="true"></i></a>
+    {{ end }}
+
+    {{ if $.Site.Params.instagram }}
+        <a href="{{ $.Site.Params.instagram }}" target="_blank" rel="noopener"><i class="fab fa-instagram mr-3" aria-hidden="true"></i></a>
+    {{ end }}
+
+    {{ if $.Site.Params.etsy }}
+        <a href="{{ $.Site.Params.etsy }}" target="_blank" rel="noopener"><i class="fab fa-etsy mr-3" aria-hidden="true"></i></a>
+    {{ end }}
+
+    {{ if $.Site.Params.email }}
+        <a href="mailto:{{ $.Site.Params.email }}"><i class="far fa-envelope-open mr-3" aria-hidden="true"></i></a>
+    {{ end }}
+
+
+
+  </div>
+  <!-- Social icons -->
+
+  <!--Copyright-->
+  <div class="copyright py-4">
+    <!-- Copyright © 2019 dave_rent -->
+    <span> {{ now.Year }} &copy; | Made by <a href="https://www.instagram.com/dave_rent/" target="_blank">dave_rent</a> <a href="mailto:david.caprari95@gmail.com"><i class="far fa-envelope-open mr-3" aria-hidden="true"></i></a>
+    <br>Made with <a href="https://gohugo.io/" target="_blank">Hugo</a>
+    <br>Theme <a href='https://github.com/orianna-zzo/AllinOne' target="_blank">AllinOne</a> by <a href='https://github.com/orianna-zzo' target="_blank">Orianna</a>  </span>
+  </div>
+  <!--/.Copyright-->
+
+</footer>
+<!--/.Footer-->

@@ -1,0 +1,9 @@
+[[series]]
+name = "astucci"
+img = "img/serie2.jpg"
+summary = "Collezione astucci"
+
+[[series]]
+name = "pochette"
+img = "img/serie1.jpg"
+summary = "Collezione pochette"
