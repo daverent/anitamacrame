@@ -658,7 +658,7 @@ carousel
 }
 
 .pull-right {
-  float: right;
+  float: inherit;
 }
 .carousel-indicators, .carousel-control-prev, .carousel-control-next {
   z-index: 30;
