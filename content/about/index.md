@@ -9,4 +9,5 @@ AnitaMacrame nasce nel 2017 quando, finalmente, mi sono decisa a condividere la 
 
 ***
 
-Qui invece per quale motivo e come, è stato fatto il sito.
+Il sito web è un progetto sviluppato per me da un mio amico.
+Potete contattarlo <a href="mailto: david.caprari95@gmail.com">qui</a>.
