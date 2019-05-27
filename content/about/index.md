@@ -5,7 +5,7 @@ img: ""
 toc: false
 ---
 
-Qui ci andrebbe scritto per quale motivo Anita ha iniziato a fare Macrame.
+AnitaMacrame nasce nel 2017 quando, finalmente, mi sono decisa a condividere la mia passione e soprattutto i suoi risultati con gli altri. Faccio tutto a mano, pezzo per pezzo, cercando di utilizzare sempre materiali di qualità.
 
 ***
 

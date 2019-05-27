@@ -47,9 +47,9 @@ pygmentsuseclasses         = true
   faviconfile              = "img/logo.png"               # from static/
   avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
   author                   = "AnitaMacrame"
-  description              = ["•Handmade macrame and crochet", "•Love a lot of iuta.", "•Nel mondo c'è un sacco di spago"]           # appears in the site header when set to a non-empty string
-  welcome_head             = "Anita"
-  welcome_word             = "Un sacco enorme di fili di iuta"
+  description              = ["•Handmade macrame and crochet"]           # appears in the site header when set to a non-empty string
+  welcome_head             = "AnitaMacrame"
+  welcome_word             = "Nel mondo c'è un sacco di cotone"
 
   latestpostscount         = 5                             # how many posts to display on the home page
   bloggroupby              = 'month'
