@@ -1,9 +1,9 @@
 [[series]]
-name = "astucci"
-img = "img/serie2.jpg"
-summary = "Collezione astucci"
+name = "borse"
+img = "img/serie1.png"
+summary = "Collezione borse"
 
 [[series]]
-name = "pochette"
+name = ""
 img = "img/serie1.jpg"
 summary = "Collezione pochette"
