@@ -14,7 +14,7 @@ draft: false    #Metti 'true' al posto di 'false' per
 tags: ["handmademarket", ""]  #Qui ci andrebbero i tag, tipo gli hashtag.
                 #Se non li usi cancella la riga.
 
-series: [""]    #Qui ci va la serie, la tipologia di
+series:     #Qui ci va la serie, la tipologia di
                 #prodotto. Se non le usi cancella la riga.
 
 categories: ["Mercatini"]    #Qui la categoria. Se non la usi cancella la riga.
