@@ -12,4 +12,4 @@ summary: ""                                             #Qui il sommario, la scr
 Colori e geometrie per la serie MochilaBags. 
 
 Per questa estate ho voluto dare un po' di fantasia e brio ai miei prodotti.
-Borsa realizzata con Cotone DMC Natura XL. 100% fatto a mano
+Borsa realizzata con Cotone DMC Natura XL. 100% fatto a mano. 
