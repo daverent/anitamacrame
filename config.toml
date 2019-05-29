@@ -80,6 +80,6 @@ pygmentsuseclasses         = true
   include_rss              = false                          # include RSS <link> tag in <head> and show RSS icon
   
   # analytics
-  googleAnalytics          = ""
+  googleAnalytics          = "UA-141003603-1"
     
     
