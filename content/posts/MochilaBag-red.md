@@ -11,7 +11,7 @@ date: 2019-05-30T12:21:03+02:00   #Non toccare (a meno che non vuoi
 draft: false    #Metti 'true' al posto di 'false' per
                 #farlo diventare una bozza.
 
-tags: ["", ""]  #Qui ci andrebbero i tag, tipo gli hashtag.
+tags:   #Qui ci andrebbero i tag, tipo gli hashtag.
                 #Se non li usi cancella la riga.
 
 series: ["borse"]    #Qui ci va la serie, la tipologia di
@@ -28,3 +28,4 @@ toc: false      #Lacia così, a meno che non vuoi un sommario a fine post
 summary: ""     #Qui il sommario, la scritta che compare 
                 #solo come sottotitolo nel blog
 ---
+Una nuova MochilaBag in rosso è disponibile per voi! Date uno sguardo <a href="https://www.etsy.com/it/listing/709747255/mochilabag?ref=shop_home_active_1">QUI</a>
