@@ -2,16 +2,16 @@
 #QUESTE È LO YAML, QUI CI SONO TUTTE LE IMPOSTAZIONI IMPLICITE DEL POST
 #(puoi iniziare a scrivere il tuo post dalla riga 31 in poi)
 
-title: "MacraBag per l'estate"    #Non toccare.
+title: "MochilaBag in rosso"    #Non toccare.
 
-date: 2019-05-28T21:28:50+02:00   #Non toccare (a meno che non vuoi
+date: 2019-05-30T12:21:03+02:00   #Non toccare (a meno che non vuoi
                     #rimettere a posto la data, ma occhio a
                     #scriverla bene).
 
 draft: false    #Metti 'true' al posto di 'false' per
                 #farlo diventare una bozza.
 
-tags:   #Qui ci andrebbero i tag, tipo gli hashtag.
+tags: ["", ""]  #Qui ci andrebbero i tag, tipo gli hashtag.
                 #Se non li usi cancella la riga.
 
 series: ["borse"]    #Qui ci va la serie, la tipologia di
@@ -19,7 +19,7 @@ series: ["borse"]    #Qui ci va la serie, la tipologia di
 
 categories: ["prodotto"]    #Qui la categoria. Se non la usi cancella la riga.
 
-img: "img/post2.jpg"     #Qui ci va il nome dell'immagine (con il 
+img: "img/quartopost.jpg"     #Qui ci va il nome dell'immagine (con il 
                 #.jpg) che devi mettere in /static/img/...
 
 toc: false      #Lacia così, a meno che non vuoi un sommario a fine post
@@ -28,6 +28,3 @@ toc: false      #Lacia così, a meno che non vuoi un sommario a fine post
 summary: ""     #Qui il sommario, la scritta che compare 
                 #solo come sottotitolo nel blog
 ---
-Tanti nodi per una super MacraBag. Perfetta per l'estate!
-
-
