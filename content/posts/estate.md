@@ -29,6 +29,6 @@ summary: ""     #Qui il sommario, la scritta che compare
                 #solo come sottotitolo nel blog
 ---
 Ricordo estivo del 2/08/2018:
-questo è stato il mio primo mercatino a Matelica un giovedì d'agosto. Tante emzioni e altrettante soddisfazioni! 
+questo è stato il mio primo mercatino a Matelica un giovedì d'agosto. Tante emozioni e altrettante soddisfazioni! 
 
 Ne verranno altri mille anche questa estate.
