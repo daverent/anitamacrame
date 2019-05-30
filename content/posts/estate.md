@@ -4,14 +4,14 @@
 
 title: "Ricordi di un'estate"    #Non toccare.
 
-date: 2019-05-28T22:03:02+02:00   #Non toccare (a meno che non vuoi
+date: 2019-05-28T03:00:00+02:00   #Non toccare (a meno che non vuoi
                     #rimettere a posto la data, ma occhio a
                     #scriverla bene).
 
 draft: false    #Metti 'true' al posto di 'false' per
                 #farlo diventare una bozza.
 
-tags: ["handmademarket", ""]  #Qui ci andrebbero i tag, tipo gli hashtag.
+tags: ["handmademarket"]  #Qui ci andrebbero i tag, tipo gli hashtag.
                 #Se non li usi cancella la riga.
 
 series:     #Qui ci va la serie, la tipologia di
@@ -28,7 +28,7 @@ toc: false      #Lacia così, a meno che non vuoi un sommario a fine post
 summary: ""     #Qui il sommario, la scritta che compare 
                 #solo come sottotitolo nel blog
 ---
-Ricordo estivo del 2/08/2018:   
+Ricordo estivo del 2/08/2018:
 questo è stato il mio primo mercatino a Matelica un giovedì d'agosto. Tante emzioni e altrettante soddisfazioni! 
 
 Ne verranno altri mille anche questa estate.

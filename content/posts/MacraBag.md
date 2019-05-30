@@ -4,7 +4,7 @@
 
 title: "MacraBag per l'estate"    #Non toccare.
 
-date: 2019-05-28T21:28:50+02:00   #Non toccare (a meno che non vuoi
+date: 2019-05-28T02:00:00+02:00   #Non toccare (a meno che non vuoi
                     #rimettere a posto la data, ma occhio a
                     #scriverla bene).
 
@@ -14,10 +14,10 @@ draft: false    #Metti 'true' al posto di 'false' per
 tags:   #Qui ci andrebbero i tag, tipo gli hashtag.
                 #Se non li usi cancella la riga.
 
-series: ["borse"]    #Qui ci va la serie, la tipologia di
+series: ["Borse"]    #Qui ci va la serie, la tipologia di
                 #prodotto. Se non le usi cancella la riga.
 
-categories: ["prodotto"]    #Qui la categoria. Se non la usi cancella la riga.
+categories: ["Prodotti"]    #Qui la categoria. Se non la usi cancella la riga.
 
 img: "img/post2.jpg"     #Qui ci va il nome dell'immagine (con il 
                 #.jpg) che devi mettere in /static/img/...
@@ -29,5 +29,3 @@ summary: ""     #Qui il sommario, la scritta che compare
                 #solo come sottotitolo nel blog
 ---
 Tanti nodi per una super MacraBag. Perfetta per l'estate!
-
-

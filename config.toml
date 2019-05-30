@@ -51,7 +51,7 @@ pygmentsuseclasses         = true
   welcome_head             = "AnitaMacrame"
   welcome_word             = "Nel mondo c'è un sacco di cotone"
 
-  latestpostscount         = 5                             # how many posts to display on the home page
+  latestpostscount         = 10                             # how many posts to display on the home page
   bloggroupby              = 'month'
   dateform                 = "2 Jan, 2006"
   dateformfull             = "01-02-2006  Monday  15:04:05"
@@ -80,6 +80,6 @@ pygmentsuseclasses         = true
   include_rss              = false                          # include RSS <link> tag in <head> and show RSS icon
   
   # analytics
-  googleAnalytics          = ""
+  googleAnalytics          = "UA-141003603-1"
     
     
