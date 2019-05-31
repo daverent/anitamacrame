@@ -23,7 +23,7 @@ series: ["borse"]    #Qui ci va la serie, la tipologia di
                 #prodotto. Se non le usi cancella la riga.
                 #Metti le maiuscole.
 
-categories: ["prodotto"]    #Qui la categoria. Se non la usi cancella la riga.
+categories: ["prodotti"]    #Qui la categoria. Se non la usi cancella la riga.
                     #Metti le maiuscole.
 
 img: "img/post6.png"     #Qui ci va il nome dell'immagine (con il 

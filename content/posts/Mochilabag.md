@@ -4,7 +4,7 @@ date: 2019-05-28T01:00:00+02:00                                       #Non tocca
 draft: false                                             #metti 'true' al posto di 'false' per                                                              farlo diventare una bozza
 tags:                                         #Qui ci andrebbero i tag, tipo gli hashtag
 series: ["Borse"]                                            #Qui ci va la serie, la tipologia di                                                               prodotto
-categories: ["Prodotti"]                                        #Qui la categoria
+categories: ["Prodotto"]                                        #Qui la categoria
 img: "img/post1.png"                                             #Qui ci va il nome dell'immagine (con il                                                           .jpg) che devi mettere in /static/img/...
 toc: false
 summary: ""                                             #Qui il sommario, la scritta che compare                                                           solo come sottotitolo nel blog
