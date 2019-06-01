@@ -17,7 +17,7 @@ tags:   #Qui ci andrebbero i tag, tipo gli hashtag.
 series: ["borse"]    #Qui ci va la serie, la tipologia di
                 #prodotto. Se non le usi cancella la riga.
 
-categories: ["prodotto"]    #Qui la categoria. Se non la usi cancella la riga.
+categories: ["prodotti"]    #Qui la categoria. Se non la usi cancella la riga.
 
 img: "img/post5.jpg"     #Qui ci va il nome dell'immagine (con il 
                 #.jpg) che devi mettere in /static/img/...

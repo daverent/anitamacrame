@@ -26,7 +26,7 @@ series: ["borse"]    #Qui ci va la serie, la tipologia di
 categories: ["prodotti"]    #Qui la categoria. Se non la usi cancella la riga.
                     #Metti le maiuscole.
 
-img: "img/post6.png"     #Qui ci va il nome dell'immagine (con il 
+img: "img/post6.jpg"     #Qui ci va il nome dell'immagine (con il 
                 #.jpg o .png) che devi mettere in /static/img/...
 
 toc: false      #Lacia così, a meno che non vuoi un sommario a fine post

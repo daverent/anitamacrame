@@ -1,9 +1,9 @@
 [[series]]
-name = "borse"
-img = "img/serie1.png"
-summary = "Collezione borse"
+name = "Borse"
+img = "img/serie1.jpg"
+summary = "Collezione Borse"
 
 [[series]]
-name = ""
-img = "img/"
-summary = ""
+name = "Top"
+img = "img/serie2.jpg"
+summary = "Collezione Top"

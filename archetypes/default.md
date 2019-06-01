@@ -22,6 +22,7 @@ tags: ["", ""]  #Qui ci andrebbero i tag, tipo gli hashtag.
 series: [""]    #Qui ci va la serie, la tipologia di
                 #prodotto. Se non le usi cancella la riga.
                 #Metti le maiuscole.
+                #Usa: "ProdottI" "MercatinI" etc...
 
 categories: [""]    #Qui la categoria. Se non la usi cancella la riga.
                     #Metti le maiuscole.
