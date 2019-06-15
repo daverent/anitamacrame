@@ -37,4 +37,4 @@ summary: ""     #Qui il sommario, la scritta che compare
                 #solo come sottotitolo nel blog.
                 #Metti le maiuscole.
 ---
-Il grande acquisto dell'estate scorsa. Ho fatto rifornimento su FiberMotel che si occupa di fiber art in Indonesia, mesi di attesa ma ne è valsa la pena: quattordici bobine di cotone naturale perfette per i miei progetti di macrame. 
+Il grande acquisto dell'estate scorsa. Ho fatto rifornimento su FiberMotel che si occupa di fiber art in Indonesia, mesi di attesa ma ne è valsa la pena: tantissime bobine di cotone naturale perfette per i miei progetti di macrame. 
