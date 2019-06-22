@@ -7,3 +7,8 @@ summary = "Collezione Borse"
 name = "top"
 img = "img/top.png"
 summary = "Collezione Top"
+
+[[series]]
+name = "Astucci"
+img = "img/astucci.jpg"
+summary = "Collezione Astucci"
