@@ -1,3 +1,9 @@
+# Una nuova serie si scrive così:
+# [[series]] <-- non toccare
+# name = "[titolo della serie con la minuscola]"
+# img = "img/[nome del file di copertina .jpg o .png (per avere il sito leggero converti in jpg)]"
+# summary = "Collezione [con la maiuscola, oggetto della serie]"
+
 [[series]]
 name = "borse"
 img = "img/borse.png"
@@ -9,6 +15,6 @@ img = "img/top.png"
 summary = "Collezione Top"
 
 [[series]]
-name = "Astucci"
+name = "astucci"
 img = "img/astucci.jpg"
 summary = "Collezione Astucci"
