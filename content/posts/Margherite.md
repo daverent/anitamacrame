@@ -38,3 +38,5 @@ summary: ""     #Qui il sommario, la scritta che compare
                 #Metti le maiuscole.
 ---
 Le margherite sono tra i miei fiori preferiti! Ho provato a riproporre la loro semplicità e raffinatezza in questi astucci, ispirata dai colori pastello di questa splendida stagione.
+
+Date un'occhiata <a href="https://www.etsy.com/it/listing/716184440/crochet-purse?ref=shop_home_active_1">QUI</a>
