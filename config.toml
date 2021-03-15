@@ -1,4 +1,4 @@
-baseURL                    = "https://anitamacrame.it/"
+baseURL                    = "https://anitamacrame.netlify.app/"
 builddrafts                = false
 DefaultContentLanguage     = "it"
 languageCode               = "it-it"
